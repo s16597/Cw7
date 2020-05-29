@@ -1,0 +1,29 @@
+ALTER PROCEDURE PromoteStudents @Semester int, @Name Varchar(255)
+AS
+BEGIN
+SET NOCOUNT ON;
+DECLARE @IdEnrollmentSequent int, @IdEnrollmentPresent int, @IdStudy int;
+
+SELECT @IdEnrollmentPresent = enr.IdEnrollment, @IdStudy = enr.IdStudy
+	from Enrollment enr INNER JOIN Studies st on enr.IdStudy = st.IdStudy 
+	where st.Name = @Name AND enr.Semester = @Semester;
+SELECT @IdEnrollmentSequent = enr.IdEnrollment
+	from Enrollment enr INNER JOIN Studies st on enr.IdStudy = st.IdStudy 
+	where st.Name = @Name AND enr.Semester +1 = @Semester;
+
+	IF ((@IdEnrollmentPresent IS NULL) OR (@IdStudy IS NULL))
+
+		BEGIN
+            RAISERROR ('404 Not Found',1,1);
+            RETURN;
+		END
+	ELSE IF (@IdEnrollmentSequent IS NULL)
+		BEGIN 
+			SET @IdEnrollmentSequent = (SELECT ISNULL (MAX(IdEnrollment), 0) + 1 FROM Enrollment);
+			INSERT INTO Enrollment (IdEnrollment, Semester,IdStudy, StartDate)
+			VALUES (@IdEnrollmentSequent, @Semester+1,@IdStudy, GETDATE());
+	    END
+
+		UPDATE Student SET IdEnrollment=@IdEnrollmentSequent WHERE IdEnrollment=@IdEnrollmentPresent;
+END
+COMMIT;

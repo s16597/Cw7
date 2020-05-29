@@ -1,0 +1,1930 @@
+REQUEST timestamp:20200525044832
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525044832
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045112
+PATH: /enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045112
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045129
+PATH: /enrollmentStudent/s15432
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045129
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050454
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050454
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050504
+PATH: /api/enrollments/s16321
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050504
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051702
+PATH: /api/enrollments/s11326
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051702
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051803
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051803
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051807
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051807
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051826
+PATH: /enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051826
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051913
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051913
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052306
+PATH: /promotions/18743
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052306
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052332
+PATH: /api/students/s18743
+METHOD: POST
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052409
+PATH: /promotions/14567
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052409
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052444
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052444
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052515
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052515
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052536
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052712
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525052714
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525052717
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525054231
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Luczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054233
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Luczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054248
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054249
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054250
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054324
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525054335
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525060937
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525060937
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525061049
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061050
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061051
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061159
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525074758
+PATH: /api/enrollments/swagger
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074758
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074831
+PATH: /api/enrollments/swagger/v1/swagger.json
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074831
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081050
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081050
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081103
+PATH: /api/enrollments/s16597
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081103
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082216
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082216
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082427
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082612
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082614
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082615
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082617
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082922
+PATH: /api/enrollments/s17629
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525083011
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525083748
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525083803
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084036
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084047
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084122
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084235
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084248
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084514
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525084742
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084753
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084755
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084756
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084756
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084840
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084922
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084924
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084926
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525084927
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525090646
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525090702
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200525103958
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525103958
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104130
+PATH: /api/students/getStudents
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104213
+PATH: /api/students/getStudents
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104246
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104248
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104249
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104334
+PATH: /api/students/s12456
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104336
+PATH: /api/students/s12456
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104414
+PATH: /api/students/joinTables
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104415
+PATH: /api/students/joinTables
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104629
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104629
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525104657
+PATH: /api/students/joinTables
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105057
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105057
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105134
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105356
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105706
+PATH: /api/students/s1223
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105727
+PATH: /api/students/joinTables
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525105745
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525110034
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15,
+    },
+REQUEST timestamp:20200525110118
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200525114028
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525114028
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525114057
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200528094343
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528094343
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528094734
+PATH: /api/students
+METHOD: GET
+QUERY: ?Index=s11326
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200528094842
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200528094847
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200528094849
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "indexNumber": "s11326",
+        "firstName": "Halina",
+        "lastName": "Makówka",
+        "birthDate": "2000-02-27",
+        "idEnrollment": 15
+    }
+REQUEST timestamp:20200528094951
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "Login":"aa",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528094952
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "Login":"aa",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528094954
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY:   {
+        "Login":"aa",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528095006
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY:   {
+        "Login":"aa",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528102141
+PATH: /api/students/login
+METHOD: GET
+QUERY: 
+BODY:   {
+        "Login":"aa",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528102221
+PATH: /api/students/login
+METHOD: GET
+QUERY: 
+BODY:   {
+        "Login":"s11326",
+        "Password":"aa"
+    }
+REQUEST timestamp:20200528103500
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103500
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103650
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103650
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103717
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103717
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200528103932
+PATH: /api/enrollments
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"Index":"s999",
+	"FirstName":"Lucjan",
+	"LastName":"Rabarbar",
+	"BirthDate":"1986-07-20",
+	"Name":"Kultura Japonii"
+	
+	
+}
+REQUEST timestamp:20200528103952
+PATH: /api/enrollments
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"Index":"s999",
+	"FirstName":"Lucjan",
+	"LastName":"Rabarbar",
+	"BirthDate":"1986-07-20",
+	"Name":"Kultura Japonii"
+	
+	
+}
+REQUEST timestamp:20200528104006
+PATH: /api/enrollments
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"Index":"s999",
+	"FirstName":"Lucjan",
+	"LastName":"Rabarbar",
+	"BirthDate":"1986-07-20",
+	"Name":"Kultura Japonii"
+	
+	
+}
+REQUEST timestamp:20200528104217
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s999",
+	"FirstName":"Lucjan",
+	"LastName":"Rabarbar",
+	"BirthDate":"1986-07-20",
+	"Name":"Kultura Japonii"
+	
+	
+}
+REQUEST timestamp:20200528104219
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s999",
+	"FirstName":"Lucjan",
+	"LastName":"Rabarbar",
+	"BirthDate":"1986-07-20",
+	"Name":"Kultura Japonii"
+	
+	
+}
+REQUEST timestamp:20200528104934
+PATH: /api/students
+METHOD: GET
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528104942
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528104944
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105220
+PATH: /api/students/s1223
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105222
+PATH: /api/students/s1223
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105238
+PATH: /api/students/s1223
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105240
+PATH: /api/students/s1223
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105305
+PATH: /api/students/joinTables
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105343
+PATH: /api/students/joinTables
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105344
+PATH: /api/students/joinTables
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105345
+PATH: /api/students/joinTables
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105357
+PATH: /api/students/joinTables
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105407
+PATH: /api/students/s1223
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s17500",
+	"FirstName":"Konstanty",
+	"LastName":"Żuk",
+	"BirthDate":"1973-01-28",
+	"Name":"Kultura Japonii"
+	
+	
+	
+}
+REQUEST timestamp:20200528105753
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?Index=s1223
+BODY: {
+	"Login":"John",
+	"Password":"Abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528105935
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?Index=s1223
+BODY: {
+	"Login":"John",
+	"Password":"Abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528105937
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?Index=s1223
+BODY: {
+	"Login":"John",
+	"Password":"Abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528110314
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?Index=s1223
+BODY: {
+	"Login":"s1223",
+	"Password":"Abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528110339
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?Index=s1223
+BODY: {
+	"Login":"s1223",
+	"Password":""
+
+	
+	
+	
+}
+REQUEST timestamp:20200528110707
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":""
+
+	
+	
+	
+}
+REQUEST timestamp:20200528110709
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":""
+
+	
+	
+	
+}
+REQUEST timestamp:20200528111439
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"ania123"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528113548
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"ania123"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528113550
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"ania123"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528113637
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"ania123"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114435
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114437
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114438
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114439
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114440
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+	
+	
+	
+}
+REQUEST timestamp:20200528114555
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+}
+REQUEST timestamp:20200528114656
+PATH: /api/students/login
+METHOD: POST
+QUERY: ?IndexNumber=s1223&Password=abracadabra
+BODY: {
+	"Login":"s1223",
+	"Password":"abracadabra"
+
+}
+REQUEST timestamp:20200529122208
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+}
+REQUEST timestamp:20200529122242
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+}
+REQUEST timestamp:20200529122243
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+}
+REQUEST timestamp:20200529122309
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+}
+REQUEST timestamp:20200529122354
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529122356
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529123922
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200529123922
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200529124052
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124417
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124419
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"Index":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124447
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124721
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124723
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124814
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124816
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124832
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124833
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124834
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124836
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124943
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529124944
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529125132
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529125133
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529125147
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13854",
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529125350
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529052701
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200529052701
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200529052748
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
+REQUEST timestamp:20200529052822
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: ?Index=s11326
+BODY: {
+
+	"FirstName":"Maurycy",
+	"LastName":"Rydzyk",
+	"BirthDate":"1968-05-12",
+	"Name":"Kultura Japonii",
+	"Password":"abracadabra"
+	
+	
+	
+	
+}
